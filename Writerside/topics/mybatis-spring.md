@@ -1,8 +1,12 @@
-# MyBatis和Spring
+# MyBatis和Spring（编写中）
 
-> 从源码角度记录MyBatis和Spring
+> 主要记录了如何在Spring中引入MyBatis，以及记录MyBatis为了适配Spring而做的一些内容
 
 ## MyBatis关键的几个类
+
+## 在Spring Framework中引入MyBatis
+
+## 在Spring Boot中引入MyBatis
 
 
 
